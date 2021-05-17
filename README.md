@@ -1,5 +1,7 @@
 # vue_admin
 
+一个基于Vue的快速开发模板
+
 ## Project setup
 ```
 yarn install
